@@ -1,0 +1,18 @@
+# Python temporary files
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/*.db
+backend/tests/test_postman_clone.db
+
+# Node/Next.js temporary files
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# System / logs
+.DS_Store
+*.log
+.env
+.env.local
