@@ -1,4 +1,4 @@
-# Antigravity Postman Clone - SDE Fullstack Assignment
+# Anti Postman Clone - SDE Fullstack Assignment
 
 A fully functional developer workspace replicating the core design, user experience, and request workflows of the Postman desktop API client.
 
